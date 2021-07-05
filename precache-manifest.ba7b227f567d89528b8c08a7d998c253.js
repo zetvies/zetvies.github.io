@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0f38e5856c1c3d97d685198eb72e062a",
+    "revision": "821e385b62e4182229e49921a2747118",
     "url": "/zetvies-front-end/index.html"
   },
   {
-    "revision": "1d8ebf798b0384d8feff",
-    "url": "/zetvies-front-end/static/css/main.475cafe3.chunk.css"
+    "revision": "0e7c3f4b690e3095126a",
+    "url": "/zetvies-front-end/static/css/main.f0c4af6a.chunk.css"
   },
   {
     "revision": "7311d53469941bb8e120",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zetvies-front-end/static/js/2.4d42df82.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1d8ebf798b0384d8feff",
+    "revision": "0e7c3f4b690e3095126a",
     "url": "/zetvies-front-end/static/js/main.3373018a.chunk.js"
   },
   {

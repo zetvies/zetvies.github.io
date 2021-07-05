@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/zetvies-front-end/static/css/main.475cafe3.chunk.css",
+    "main.css": "/zetvies-front-end/static/css/main.f0c4af6a.chunk.css",
     "main.js": "/zetvies-front-end/static/js/main.3373018a.chunk.js",
     "main.js.map": "/zetvies-front-end/static/js/main.3373018a.chunk.js.map",
     "runtime-main.js": "/zetvies-front-end/static/js/runtime-main.6d6da06f.js",
@@ -8,9 +8,9 @@
     "static/js/2.4d42df82.chunk.js": "/zetvies-front-end/static/js/2.4d42df82.chunk.js",
     "static/js/2.4d42df82.chunk.js.map": "/zetvies-front-end/static/js/2.4d42df82.chunk.js.map",
     "index.html": "/zetvies-front-end/index.html",
-    "precache-manifest.0b0a2be92f08f42ce4c1746766acbb95.js": "/zetvies-front-end/precache-manifest.0b0a2be92f08f42ce4c1746766acbb95.js",
+    "precache-manifest.ba7b227f567d89528b8c08a7d998c253.js": "/zetvies-front-end/precache-manifest.ba7b227f567d89528b8c08a7d998c253.js",
     "service-worker.js": "/zetvies-front-end/service-worker.js",
-    "static/css/main.475cafe3.chunk.css.map": "/zetvies-front-end/static/css/main.475cafe3.chunk.css.map",
+    "static/css/main.f0c4af6a.chunk.css.map": "/zetvies-front-end/static/css/main.f0c4af6a.chunk.css.map",
     "static/js/2.4d42df82.chunk.js.LICENSE.txt": "/zetvies-front-end/static/js/2.4d42df82.chunk.js.LICENSE.txt",
     "static/media/ARSA.gif": "/zetvies-front-end/static/media/ARSA.fe31e21b.gif",
     "static/media/Anindya.mp3": "/zetvies-front-end/static/media/Anindya.7447ebc6.mp3",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.6d6da06f.js",
     "static/js/2.4d42df82.chunk.js",
-    "static/css/main.475cafe3.chunk.css",
+    "static/css/main.f0c4af6a.chunk.css",
     "static/js/main.3373018a.chunk.js"
   ]
 }
