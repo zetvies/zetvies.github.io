@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/zetvies-front-end/static/css/main.475cafe3.chunk.css",
+    "main.js": "/zetvies-front-end/static/js/main.3373018a.chunk.js",
+    "main.js.map": "/zetvies-front-end/static/js/main.3373018a.chunk.js.map",
+    "runtime-main.js": "/zetvies-front-end/static/js/runtime-main.6d6da06f.js",
+    "runtime-main.js.map": "/zetvies-front-end/static/js/runtime-main.6d6da06f.js.map",
+    "static/js/2.4d42df82.chunk.js": "/zetvies-front-end/static/js/2.4d42df82.chunk.js",
+    "static/js/2.4d42df82.chunk.js.map": "/zetvies-front-end/static/js/2.4d42df82.chunk.js.map",
+    "index.html": "/zetvies-front-end/index.html",
+    "precache-manifest.0b0a2be92f08f42ce4c1746766acbb95.js": "/zetvies-front-end/precache-manifest.0b0a2be92f08f42ce4c1746766acbb95.js",
+    "service-worker.js": "/zetvies-front-end/service-worker.js",
+    "static/css/main.475cafe3.chunk.css.map": "/zetvies-front-end/static/css/main.475cafe3.chunk.css.map",
+    "static/js/2.4d42df82.chunk.js.LICENSE.txt": "/zetvies-front-end/static/js/2.4d42df82.chunk.js.LICENSE.txt",
+    "static/media/ARSA.gif": "/zetvies-front-end/static/media/ARSA.fe31e21b.gif",
+    "static/media/Anindya.mp3": "/zetvies-front-end/static/media/Anindya.7447ebc6.mp3",
+    "static/media/Back.svg": "/zetvies-front-end/static/media/Back.2505cd4d.svg",
+    "static/media/Cat.mp3": "/zetvies-front-end/static/media/Cat.9700a0f1.mp3",
+    "static/media/Disk.svg": "/zetvies-front-end/static/media/Disk.a65f14e6.svg",
+    "static/media/Kerjainplis Web App.gif": "/zetvies-front-end/static/media/Kerjainplis Web App.3eadb9cb.gif",
+    "static/media/Kerjainplis.gif": "/zetvies-front-end/static/media/Kerjainplis.135708c3.gif",
+    "static/media/LeftArrow.svg": "/zetvies-front-end/static/media/LeftArrow.c24724e1.svg",
+    "static/media/Logika.gif": "/zetvies-front-end/static/media/Logika.9bbf324b.gif",
+    "static/media/Next.svg": "/zetvies-front-end/static/media/Next.d763ecc7.svg",
+    "static/media/Pause.svg": "/zetvies-front-end/static/media/Pause.71e21904.svg",
+    "static/media/PawHiApp.gif": "/zetvies-front-end/static/media/PawHiApp.31514c3b.gif",
+    "static/media/Play.svg": "/zetvies-front-end/static/media/Play.2aa970dd.svg",
+    "static/media/Playlist.svg": "/zetvies-front-end/static/media/Playlist.420e7248.svg",
+    "static/media/Repeat.svg": "/zetvies-front-end/static/media/Repeat.40cadc08.svg",
+    "static/media/RightArrow.svg": "/zetvies-front-end/static/media/RightArrow.4dfcb9c3.svg",
+    "static/media/Shuffle.svg": "/zetvies-front-end/static/media/Shuffle.eeed1a4b.svg",
+    "static/media/Untuk.mp3": "/zetvies-front-end/static/media/Untuk.967a97db.mp3",
+    "static/media/Volume.svg": "/zetvies-front-end/static/media/Volume.4515e9b3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d6da06f.js",
+    "static/js/2.4d42df82.chunk.js",
+    "static/css/main.475cafe3.chunk.css",
+    "static/js/main.3373018a.chunk.js"
+  ]
+}
