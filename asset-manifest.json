@@ -1,40 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0c4af6a.chunk.css",
-    "main.js": "/static/js/main.4803813a.chunk.js",
-    "main.js.map": "/static/js/main.4803813a.chunk.js.map",
+    "main.css": "/static/css/main.ae6ae417.chunk.css",
+    "main.js": "/static/js/main.b9a458fa.chunk.js",
+    "main.js.map": "/static/js/main.b9a458fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.1a3eeb37.js",
     "runtime-main.js.map": "/static/js/runtime-main.1a3eeb37.js.map",
-    "static/js/2.4d42df82.chunk.js": "/static/js/2.4d42df82.chunk.js",
-    "static/js/2.4d42df82.chunk.js.map": "/static/js/2.4d42df82.chunk.js.map",
+    "static/js/2.edb72cd3.chunk.js": "/static/js/2.edb72cd3.chunk.js",
+    "static/js/2.edb72cd3.chunk.js.map": "/static/js/2.edb72cd3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.1ed744866cd495c5b4eb06c8060db99c.js": "/precache-manifest.1ed744866cd495c5b4eb06c8060db99c.js",
+    "precache-manifest.e93b87b0bd12cb5d25712f4034859108.js": "/precache-manifest.e93b87b0bd12cb5d25712f4034859108.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.f0c4af6a.chunk.css.map": "/static/css/main.f0c4af6a.chunk.css.map",
-    "static/js/2.4d42df82.chunk.js.LICENSE.txt": "/static/js/2.4d42df82.chunk.js.LICENSE.txt",
+    "static/css/main.ae6ae417.chunk.css.map": "/static/css/main.ae6ae417.chunk.css.map",
+    "static/js/2.edb72cd3.chunk.js.LICENSE.txt": "/static/js/2.edb72cd3.chunk.js.LICENSE.txt",
     "static/media/ARSA.gif": "/static/media/ARSA.fe31e21b.gif",
     "static/media/Anindya.mp3": "/static/media/Anindya.7447ebc6.mp3",
-    "static/media/Back.svg": "/static/media/Back.2505cd4d.svg",
     "static/media/Cat.mp3": "/static/media/Cat.9700a0f1.mp3",
-    "static/media/Disk.svg": "/static/media/Disk.a65f14e6.svg",
     "static/media/Kerjainplis.gif": "/static/media/Kerjainplis.135708c3.gif",
     "static/media/LeftArrow.svg": "/static/media/LeftArrow.c24724e1.svg",
     "static/media/Logika.gif": "/static/media/Logika.9bbf324b.gif",
-    "static/media/Next.svg": "/static/media/Next.d763ecc7.svg",
-    "static/media/Pause.svg": "/static/media/Pause.71e21904.svg",
     "static/media/PawHiApp.gif": "/static/media/PawHiApp.31514c3b.gif",
-    "static/media/Play.svg": "/static/media/Play.2aa970dd.svg",
-    "static/media/Playlist.svg": "/static/media/Playlist.420e7248.svg",
-    "static/media/Repeat.svg": "/static/media/Repeat.40cadc08.svg",
     "static/media/RightArrow.svg": "/static/media/RightArrow.4dfcb9c3.svg",
-    "static/media/Shuffle.svg": "/static/media/Shuffle.eeed1a4b.svg",
-    "static/media/Untuk.mp3": "/static/media/Untuk.967a97db.mp3",
-    "static/media/Volume.svg": "/static/media/Volume.4515e9b3.svg"
+    "static/media/Untuk.mp3": "/static/media/Untuk.967a97db.mp3"
   },
   "entrypoints": [
     "static/js/runtime-main.1a3eeb37.js",
-    "static/js/2.4d42df82.chunk.js",
-    "static/css/main.f0c4af6a.chunk.css",
-    "static/js/main.4803813a.chunk.js"
+    "static/js/2.edb72cd3.chunk.js",
+    "static/css/main.ae6ae417.chunk.css",
+    "static/js/main.b9a458fa.chunk.js"
   ]
 }
